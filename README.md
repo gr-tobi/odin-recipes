@@ -1,0 +1,1 @@
+In this project I will be buyilding a basic recipe website. I'm hoping to make it look as nice as possible, but I'm still new at HTML and CSS. I generally do intermittent fasting and try to stick as close to KETO as I can, so this project will probably focus on simple keto recipes.
